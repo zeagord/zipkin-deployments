@@ -3,6 +3,6 @@ Openshift and Kubernetes Deployment script for Zipkin. By default the provided s
 
 ## Deployment
 
-Copy the template and execute from the command line or the GUI of your platform
+Copy the template and execute from the command line or from the GUI of your platform
 
 For more information on the supported backend and environment variables. Visit https://github.com/openzipkin/zipkin
